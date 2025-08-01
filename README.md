@@ -42,5 +42,3 @@ npm start
 フロントエンド:バニラJavaScript+カスタムCSS
 バックエンド:Node.js, Express
 データベース:PostgreSQL
-
-このアプリケーションはClaudeの補助を受けながら，作成を行っております．予めご了承ください。
